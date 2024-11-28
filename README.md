@@ -31,3 +31,5 @@ jupyter notebook main.ipynb
 ```
 
 You can then follow the instructions within the notebook to experiment with the different components of the framework.  The `neuron`, `feed_forward_network`, `utils`, and `loss` directories contain the core implementation details.  The `test` directory contains unit tests that can be run using a testing framework like `pytest` (install with `pip install pytest`).
+
+Presentation Link: [Presentation](https://docs.google.com/presentation/d/1034QEwnAUeQhVg93D6Zaa4oSx2-U77c4pgFL3_D-moY/edit#slide=id.p2)
